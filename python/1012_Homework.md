@@ -50,4 +50,8 @@
 # [Python - Join Lists](https://www.w3schools.com/python/python_lists_join.asp)
 
 - [Join Two Lists](https://gist.github.com/Gela21/f9a7bfe6f97cbe922c834ac649ac0eef)
-- [
+- [Append list2 into list1](https://gist.github.com/Gela21/daadbb4e7de3df00e62dce30184ed4de)
+
+# [Python - List Methods](https://www.w3schools.com/python/python_lists_methods.asp)
+
+- [Python List reverse() Method](https://gist.github.com/Gela21/2c25f78609eaaca5301d633653924179)

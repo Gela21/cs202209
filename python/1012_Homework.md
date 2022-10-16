@@ -35,6 +35,19 @@
 
 - [Sort the list alphabetically](https://gist.github.com/Gela21/3e3f3c25dde689b873d666cf92028489)
 - [Sort the list numerically](https://gist.github.com/Gela21/3c6536180c74791b06846ff3ac93dea5)
-
 - [Sort Descending](https://gist.github.com/Gela21/4c77bcf0599c2e61be31bf6f53eb8366)
+- 
+- [Customize Sort Function](https://gist.github.com/Gela21/21512091ed40cba4f2f958e5329782ef)
+
+- [Case Insensitive Sort](https://gist.github.com/Gela21/c8dbe193f9b1281bcd0a2000217a3db3)
+
+- [Reverse Order](https://gist.github.com/Gela21/0172aa1037ce16ca016e3d09ccacc787)
+
+# [Python - Copy Lists](https://www.w3schools.com/python/python_lists_copy.asp)
+- 
+- [Copy A List](https://gist.github.com/Gela21/6b8e3ed60234a82f8108287809856f06
+
+# [Python - Join Lists](https://www.w3schools.com/python/python_lists_join.asp)
+
+- [Join Two Lists](https://gist.github.com/Gela21/f9a7bfe6f97cbe922c834ac649ac0eef)
 - [

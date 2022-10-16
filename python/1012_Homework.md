@@ -33,4 +33,8 @@
 
 # [Python - Sort Lists](https://www.w3schools.com/python/python_lists_sort.asp)
 
-- [Sort the list alphabetically]
+- [Sort the list alphabetically](https://gist.github.com/Gela21/3e3f3c25dde689b873d666cf92028489)
+- [Sort the list numerically](https://gist.github.com/Gela21/3c6536180c74791b06846ff3ac93dea5)
+
+- [Sort Descending](https://gist.github.com/Gela21/296f177d7efec57a3ce5450bb2ca0afe)
+- [
